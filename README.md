@@ -1,5 +1,10 @@
 # 4D Polytope Visualizer (Processing)
 Showcase: https://youtu.be/GuIM3y4g0Og
+
+### Controls:
+![[controls pic]](Controls.png)
+
+
 ## Current Polytopes:
 * ### Orthographic & Perspective projections: (Mesh)
   - ``Hypercube``
